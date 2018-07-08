@@ -1,0 +1,17 @@
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\AudioPlayer.dll
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.App.xaml.g.cs
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.AudioPlayerPage.xaml.g.cs
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.dll
+C:\Users\hahm9\Desktop\xamarin-audio-player-master\src\AudioPlayer\obj\Debug\AudioPlayer.pdb
